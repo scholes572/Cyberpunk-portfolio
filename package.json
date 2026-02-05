@@ -1,0 +1,8 @@
+{
+  "name": "agostino-portfolio",
+  "version": "1.0.0",
+  "description": "Cyberpunk portfolio for Agostino Scholes",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
